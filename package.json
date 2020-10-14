@@ -1,0 +1,16 @@
+{
+  "name": "phonenumber-validators",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Daniel Sonne Lehnberg <doddy@doddy.se> (https://www.doddy.se/)",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.0.3"
+  }
+}
